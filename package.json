@@ -1,0 +1,32 @@
+{
+  "name": "beer-finder",
+  "homepage": "https://RisingStack.github.io/react-easy-state/examples/beer-finder/build/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "11.3.0",
+    "@material-ui/core": "^4.9.5",
+    "@material-ui/icons": "^4.9.1",
+    "@mui/icons-material": "5.0.1",
+    "@mui/material": "5.0.2",
+    "@risingstack/react-easy-state": "^6.3.0",
+    "axios": "^0.19.2",
+    "material-ui-search-bar": "1.0.0-beta.13",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
